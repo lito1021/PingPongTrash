@@ -10,6 +10,8 @@ git commit -m "Initial commit"
 # The push sends the changes to the remove 
 git push
 
-# Pull before you make any changes
-git pull
+# configure username and email 
+git config --global user.name "lito1021" 
+git config --global user.email angelbecerra541@gmail.com"
+
 
