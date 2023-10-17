@@ -17,4 +17,8 @@ git config --global user.email angelbecerra541@gmail.com"
 
 George was here
 again..
-george is awsome
+
+george is a loser 
+nuh uh
+yuh uh stupid  
+goerge broek the thing 
