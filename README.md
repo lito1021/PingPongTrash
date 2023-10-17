@@ -1,5 +1,6 @@
 # PingPongTrash
 
+<<<<<<< HEAD
 # The dot includes hidden files that start with a dot, like .gitignore
 git add . 
 
@@ -15,3 +16,6 @@ git config --global user.name "lito1021"
 git config --global user.email angelbecerra541@gmail.com"
 
 
+=======
+George was here
+>>>>>>> c85c4b37dcd9fb1f2083bb84a9ab5a9aa5be97b7
