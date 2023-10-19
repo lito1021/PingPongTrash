@@ -23,3 +23,4 @@ class mergeConflict {
 }
 
 george is struggling 
+george is slow
