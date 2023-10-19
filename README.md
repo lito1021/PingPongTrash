@@ -18,4 +18,7 @@ git config --global user.email angelbecerra541@gmail.com"
 George was here
 again..
 
+class mergeConflict {
+    private int rip "This should not be a string";
+}
 
